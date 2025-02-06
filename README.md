@@ -130,5 +130,3 @@
     </script>
 </body>
 </html>
-
-after you gave me this code I don't know how to make it finally to be shared as a link to people teach me please I need to send it as a link to someone when it's complete working 
